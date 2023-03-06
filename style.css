@@ -1,0 +1,10 @@
+.col-md-3{
+    width: 24% !important;
+    margin: 6px;
+}
+.mytable > tbody > tr > td:nth-child(5){
+    padding: 15px;
+}
+#qty{
+    width: 5rem;
+}
